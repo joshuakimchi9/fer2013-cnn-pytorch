@@ -1,6 +1,4 @@
-# fer2013-cnn-pytorch# Real-time Emotion Recognition with PyTorch & OpenCV
-(httpst://example.com/link-to-your-demo.gif)
-*A live demonstration of the model detecting emotions from a webcam feed. (Bạn hãy tạo một file GIF demo và thay link vào đây)*
+# fer2013-cnn-pytorch Emotion Recognition with PyTorch & OpenCV
 
 ## 🚀 Project Overview
 
