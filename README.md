@@ -1,4 +1,4 @@
-# fer2013-cnn-pytorch Emotion Recognition with PyTorch & OpenCV
+# fer2013-cnn Emotion Recognition with PyTorch & OpenCV
 
 ## 🚀 Project Overview
 
